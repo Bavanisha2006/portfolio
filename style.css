@@ -69,6 +69,48 @@ p{
 .con{
     display: flex;
 }
-nav{
-    display:inline-block
+.next{
+    display: inline;
+    gap: 80px;
+    margin-left: 600px;
+
 }
+.about,.contact,.blog,.portfolio{
+    color:white
+}
+.page{
+    background-color: black;
+}
+
+.am{
+    height: 300px;
+    width: 300px;
+    border: 70px;
+    box-sizing: border-box;
+    padding:40px;
+    background-color:rgb(90, 84, 84);
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.app{
+    height: 300px;
+    width: 300px;
+    border: 70px;
+    box-sizing: border-box;
+    padding:40px;
+    background-color:rgb(90, 84, 84);
+    border-radius: 30px;
+    vertical-align: top;
+    margin-top: 30px;
+    
+
+}
+.wm{
+   
+        display: flex;
+        gap: 40px;              
+        padding: 20px;
+    
+}
+
+
